@@ -1,4 +1,4 @@
-# UTS1_SEM2_Cupu
+# UTS1_SEM2_PBO
 PROGRAM TOKO (GUI) JOPTION PANE
 
 kenang - kenangan aja
