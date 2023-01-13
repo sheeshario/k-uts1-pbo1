@@ -1,4 +1,4 @@
-# UTS1_SEM2_PBO
+# Mid Semester Test Object Oriented Programming
 PROGRAM TOKO (GUI) JOPTION PANE
 
-kenang - kenangan aja
+GUI with JOption Pane Program
